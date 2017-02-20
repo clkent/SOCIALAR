@@ -1,0 +1,1 @@
+DJANGO_SECRET = '-qmpl07(6jey14&zo!1-e=a5_1w^g=s4y1st^ob-h9n1-8nw^w'
